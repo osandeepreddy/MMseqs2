@@ -3,4 +3,3 @@ target: mmseqs2
 
 cmds:
   - cmd: /mmseqs
-~              
