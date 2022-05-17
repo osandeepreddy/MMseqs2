@@ -1,0 +1,6 @@
+project: mmseqs2
+target: mmseqs2
+
+cmds:
+  - cmd: /mmseqs
+~              
